@@ -74,6 +74,7 @@ ___
 ### Q: Additional audit information.
 Primarily concerned if there is any potential for loss-of-funds and unfair earning distribution. Whether that be through exploits in logical errors in administration, balance management, or the accounting math. 
 
+
 # Audit scope
 
 [Burve @ 945f30bfae8afc41af21305ff8c2271ca0ffe6c3](https://github.com/itos-finance/Burve/tree/945f30bfae8afc41af21305ff8c2271ca0ffe6c3)
